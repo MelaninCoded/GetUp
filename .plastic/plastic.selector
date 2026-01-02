@@ -1,4 +1,3 @@
-repository "GetUp/GetUp@20067102345464@cloud"
+rep "GetUp/GetUp@20067102345464@cloud"
   path "/"
-    br "/main"
-    co "/main"
+    smartbranch "/main"
